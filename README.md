@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas 👋
-Computer Science student (BUT Informatique, IUT Vannes) | International experience (Erasmus at TU Dublin Tallaght Campus and VUT FIT Brno)
+Computer Science student (BUT Informatique, IUT Vannes, France) | International experience (Erasmus at TU Dublin Tallaght Campus and VUT FIT Brno)
 
 ### Featured project
 - 📚 **Pager-App** (Flutter, MVC) — team project : book tracking companion app  
