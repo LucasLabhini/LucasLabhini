@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Lucas 👋
+Computer Science student (BUT Informatique, IUT Vannes) | International experience (Erasmus at TU Dublin Tallaght Campus and VUT FIT Brno)
 
-<!--
-**LucasLabhini/LucasLabhini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured project
+- 📚 **Pager-App** (Flutter, MVC) — team project : book tracking companion app  
+  **My contributions:** Home & Reading screens, app shell/navigation, book details & interactions (progress update, status changes), and a notes feature linked to pages.  
+  → Repo: https://github.com/davgal27/Pager-App
 
-Here are some ideas to get you started:
+### What I like building
+Team projects • Mobile apps • Clean UI & data-driven features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- (LinkedIn)
+- (Email)
