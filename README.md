@@ -9,4 +9,3 @@ Computer Science student (BUT Informatique, IUT Vannes, France) | International 
 
 ### Contact
 - lucaslabhini27@gmail.com
-- +33760590521
