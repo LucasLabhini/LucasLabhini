@@ -1,7 +1,7 @@
 Hi, I'm Lucas 👋
 
 Computer Science student (BUT Informatique, IUT Vannes, France) | International experience (Erasmus x2)  
-French student 🇫🇷
+French student
 
 My Projects
 
