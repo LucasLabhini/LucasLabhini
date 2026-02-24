@@ -11,7 +11,7 @@ My Projects
 📚 Pager-App (Flutter, MVC) — Book tracking companion app (team project)
 → Repo: https://github.com/davgal27/Pager-App
 
-🌐 IoT Data Platform (Node.js, MariaDB, Chart.js) — Real-time sensor data visualization & alert system (internship project)
+🌐 IoT Data Platform (Node.js, MariaDB, Chart.js) — Real-time sensor data visualization & alert system (internship project)  
 → Repo: 
 
 📶 VQueue — Offline queue management via Bluetooth LE (team project)
