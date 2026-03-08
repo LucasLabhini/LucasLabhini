@@ -7,6 +7,11 @@
 
 ### 🛠 My Projects
 
+#### 🌐 [IoT Data Analyzer](https://github.com/LucasLabhini/iot-data-analyzer) — *Showcase (Private Code)*
+* **Description**: Real-time sensor data dashboard with an automated alert system.
+* **Tech Stack**: Node.js, MariaDB, Chart.js, Leaflet.js.
+* **Type**: Solo Project (Internship) / Erasmus Experience.
+
 #### 📖 [3D Book Viewer](https://github.com/LucasLabhini/3d-book-viewer)
 * **Description**: A 3D PDF viewer featuring realistic page-turning animations.
 * **Tech Stack**: Three.js, PDF.js.
@@ -16,11 +21,6 @@
 * **Description**: A mobile companion app for tracking reading progress and book collections.
 * **Tech Stack**: Flutter, MVC Architecture.
 * **Type**: Team Project / Erasmus Experience.
-
-#### 🌐 [IoT Data Analyzer](https://github.com/LucasLabhini/iot-data-analyzer) — *Showcase (Private Code)*
-* **Description**: Real-time sensor data dashboard with an automated alert system.
-* **Tech Stack**: Node.js, MariaDB, Chart.js, Leaflet.js.
-* **Type**: Solo Project (Internship) / Erasmus Experience.
 
 #### 📶 [VQueue](https://github.com/LucasLabhini/v-queue) — *Showcase (Private Code)*
 * **Description**: Offline queue management using a hybrid BLE protocol (GATT/Advertising).
