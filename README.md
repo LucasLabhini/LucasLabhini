@@ -1,28 +1,39 @@
-Hi, I'm Lucas 👋
+# Hi, I'm Lucas 👋
 
-Computer Science student (BUT Informatique, IUT Vannes, France) | International experience (Erasmus x2)
-French student
+**Computer Science Student** (BUT Informatique @ IUT Vannes, France)  
+**International Experience**: 2x Erasmus+ mobility (Ireland & Czech Republic)
 
-My Projects
+---
 
-📖 3D Book Viewer (Three.js, PDF.js) — 3D PDF viewer with page-turning animations (solo project)  
-→ Repo: https://github.com/LucasLabhini/3d-book-viewer
+### 🛠 My Projects
 
-📚 Pager-App (Flutter, MVC) — Book tracking companion app (team project)  
-→ Repo: https://github.com/davgal27/Pager-App
+#### 📖 [3D Book Viewer](https://github.com/LucasLabhini/3d-book-viewer)
+* **Description**: A 3D PDF viewer featuring realistic page-turning animations.
+* **Tech Stack**: Three.js, PDF.js.
+* **Type**: Solo Project / Erasmus Experience.
 
-🌐 IoT Data Platform (Node.js, MariaDB, Chart.js) — Real-time sensor data visualization & alert system (internship project)  
-→ Repo: 
+#### 📚 [Pager-App](https://github.com/davgal27/Pager-App)
+* **Description**: A mobile companion app for tracking reading progress and book collections.
+* **Tech Stack**: Flutter, MVC Architecture.
+* **Type**: Team Project / Erasmus Experience.
 
-📶 VQueue — Offline queue management via Bluetooth LE (team project)  
-→ Repo:
+#### 🌐 [IoT Data Analyzer](https://github.com/LucasLabhini/iot-data-analyzer) — *Showcase (Private Code)*
+* **Description**: Real-time sensor data dashboard with an automated alert system.
+* **Tech Stack**: Node.js, MariaDB, Chart.js, Leaflet.js.
+* **Type**: Solo Project (Internship) / Erasmus Experience.
 
-🧺 Laundry Reservation System — Washing machines/dryers booking web app (team project)  
-→ Repo: https://github.com/LorenzoPed/GJAe
+#### 📶 [VQueue](https://github.com/LucasLabhini/v-queue) — *Showcase (Private Code)*
+* **Description**: Offline queue management using a hybrid BLE protocol (GATT/Advertising).
+* **Tech Stack**: Native Android (Java), Room DB, BLE API.
+* **Type**: Team Project / Erasmus Experience.
 
-📷 3D Object Tracking (Python, OpenCV, NumPy) — Ball tracking in 3D space using stereo camera calibration & triangulation (team project)  
-→ Repo: https://github.com/davgal27/3D-object-tracking
+#### 🧺 [Laundry Reservation System](https://github.com/LorenzoPed/GJAe)
+* **Description**: A management system for booking washing machines and dryers in shared facilities.
+* **Tech Stack**: Java, Spring Boot, PostgreSQL, Thymeleaf, Spring Security.
+* **Type**: Team Project / Erasmus Experience.
 
-Contact
+---
 
-lucaslabhini27@gmail.com
+### 📬 Contact Me
+
+* **Email**: [lucaslabhini27@gmail.com](mailto:lucaslabhini27@gmail.com)
